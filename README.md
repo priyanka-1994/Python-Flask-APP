@@ -1,3 +1,5 @@
+# Thanks to Python-Flask project to https://github.com/jimdevops19/FlaskSeries#
+
 # 🐍 Flask Market App – CI/CD with Docker, GitHub Actions, and Kubernetes
 
 This project is a sample Flask web app demonstrating how to:

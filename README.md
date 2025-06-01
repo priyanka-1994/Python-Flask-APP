@@ -44,14 +44,14 @@ docker run -d -p 5000:5000 market-flaskapp
 Visit: http://localhost:5000
 
 ### 4. 🤖 GitHub Actions CI/CD
-Workflow file: .github/workflows/ci.yml
+Workflow file: .github/workflows/flask-app.yml
 
 ### 5. ☸️ Kubernetes (Minikube)
 minikube start
 
 ### Apply Kubernetes Manifest
-kubectl apply -f k8s/flask-deployment.yaml
-kubectl apply -f k8s/flask-service.yaml
+kubectl apply -f flask-deploy.yml
+kubectl apply -f flask-service.yml
 
 ### Access the App
 Expose the app via NodePort:

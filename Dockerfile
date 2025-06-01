@@ -1,7 +1,7 @@
 # base image
-FROM python:alpine
+FROM python
 # set the working directory
-WORKDIR app
+WORKDIR /app
 # copy applicaton files
 COPY . /app 
 # Install dependencies

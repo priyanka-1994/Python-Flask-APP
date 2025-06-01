@@ -1,5 +1,3 @@
-# Thanks to Python-Flask project to https://github.com/jimdevops19/FlaskSeries#
-
 # 🐍 Flask Market App – CI/CD with Docker, GitHub Actions, and Kubernetes
 
 This project is a sample Flask web app demonstrating how to:
@@ -62,3 +60,6 @@ minikube service flask-service
 This will open your browser at a URL like http://localhost:30000
 
 ### You can see app background in screenshot folder.
+
+# Thanks to Python-Flask project to https://github.com/jimdevops19/FlaskSeries#
+

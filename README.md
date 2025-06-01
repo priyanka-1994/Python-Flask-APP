@@ -58,3 +58,5 @@ Expose the app via NodePort:
 minikube service flask-service
 
 This will open your browser at a URL like http://localhost:30000
+
+### You can see app background in screenshot folder.

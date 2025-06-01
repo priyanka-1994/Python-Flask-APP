@@ -57,4 +57,8 @@ kubectl apply -f k8s/flask-service.yaml
 Expose the app via NodePort:
 minikube service flask-service
 
+![image](https://github.com/user-attachments/assets/0758d794-3bb4-40c3-a8fa-20b0372b8dcc)
+
+
+
 This will open your browser at a URL like http://localhost:30000.ss
